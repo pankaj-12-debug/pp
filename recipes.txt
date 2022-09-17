@@ -4,4 +4,8 @@ welcome to kitchen
 
 kheer
 paner
+
+beans
+
+pizza
 chicken fry
